@@ -69,7 +69,7 @@ jobs:
             "user_claim": "actor",
             "bound_claims": {
 
-              "sub":"Justin-Seaman/course-vault-github-oidc:ref:refs/heads/main"
+              "sub":"repo:Justin-Seaman/course-vault-github-oidc:ref:refs/heads/main"
 
             },
             "policies": ["main-policy"],
