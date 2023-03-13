@@ -70,7 +70,7 @@ jobs:
             "user_claim": "actor",
             "bound_claims": {
 
-              "sub": "repo:Justin-Seaman/course-vault-github-oidc:push"
+              "sub": "repo:Justin-Seaman/course-vault-github-oidc:pull_request"
 
             },
             "policies": ["pr-policy"],
